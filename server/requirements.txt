@@ -1,0 +1,21 @@
+# FastAPI and server
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+
+# LangChain and AI orchestration
+langchain==0.0.340
+langchain-community==0.0.1
+
+# OpenAI integration
+openai==1.3.5
+
+# Vector store
+chromadb==0.4.18
+
+# PDF processing
+pypdf==3.17.1
+
+# Additional dependencies
+pydantic==2.5.0
+python-multipart==0.0.6  # Required for file uploads in FastAPI
+typing-extensions==4.8.0
