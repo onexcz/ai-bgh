@@ -4,10 +4,10 @@ The application will interact with a pre-existing FastAPI backend.
 
 ### **Core Requirements:**
 
-1. **Framework:** Use **Nuxt 3**.
+1. **Framework:** Use **Nuxt 4**.
 2. **Styling:** Use **Tailwind CSS** for all styling. The UI must be clean, modern, and responsive.
-3. **State Management:** Use Nuxt's built-in `useState` composable for all reactive state.
-4. **API Communication:** Use Nuxt's built-in `$fetch` composable for making API calls to the backend. Assume the backend is running at `http://127.0.0.1:8000`.
+3. **State Management:** Use Nuxt's built-in composable for all reactive state.
+4. **API Communication:** Assume the backend is running at `http://127.0.0.1:8000`.
 
 ### **Backend API Endpoints:**
 
